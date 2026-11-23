@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BUMX AUTO</string>
+    <string name="accessibility_description">Dịch vụ hỗ trợ tự động đọc màn hình cho BUMX AUTO</string>
 </resources>
